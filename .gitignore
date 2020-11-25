@@ -3,6 +3,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+.python-version
 
 # Icon must end with two \r
 Icon
@@ -12,6 +13,7 @@ Icon
 
 #VSCode
 .vscode
+
 
 
 # Byte-compiled / optimized / DLL files

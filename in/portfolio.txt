@@ -1,3 +1,24 @@
-website portfolio
+Website Portfolio V1.0
 
-@motivation
+@Motivation
+I made this website with the goal of learning how to deploy a website with a custom domain. Moreover, the long term goal is to have a Python or TypeScript application that does version management and submission upload. This should help me look back to understand where I have developed my skills and reflect on what has got me to where I am today.
+
+@Simplistic Look
+You may have noticed that the look is very basic. This is because I want to make this website light weight and not have any fancy bells and whistles. The most important aspect is to ensure that there are no heuristic faults in this portfolio. The colour scheme is solarized, I still need to work on this as there are some inconsistencies here. Keeping the website simple and basic will ensure that I can make it autonomous alot easier. A Lot of the look of the site is based off of the website N-O-D-E, it is maintained by a british developer that writes blogs and tech related articles.
+
+N-O-D-E
+Solarized
+
+@Future of this
+*I would like to make this more polished as I learn more about web development. Some of the features I would really like to add are:
+*Automatic version control
+*Light and dark mode
+*Data tracking of users
+*Custom DNS
+*Make the UI cleaner
+
+@Tech Stack
+*HTML
+*CSS
+*Python
+
